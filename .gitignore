@@ -1,0 +1,5 @@
+build
+__pycache__
+.pytest_cache
+FastBitboard.cp313-win_amd64.pyd
+FastBitboard.c
